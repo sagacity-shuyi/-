@@ -1,0 +1,5 @@
+***** 第六天打卡**
+leetcode 242. Valid Anagram e,我做的，我用了两个排序， beat70%; 学习了这个哈希算法，利用数组其实本质就是哈希表，来表示元素出现次数的问题，beat100%
+leetcode 349. Intersection of Two Arrays e. 两个都用unordered set beat 40%; 如果一个用数组，另一个用unordered_set会快很多 beat100% 所以数组比unordered_set 速度快
+202. Happy Number e 我自己做的 beat 100% 用了unordered_set 哈希算法
+1. two sum e我自己做的 beat13%; 用了unordered_map beat 78%
