@@ -27,3 +27,9 @@ leetcode 349. Intersection of Two Arrays e. 两个都用unordered set beat 40%; 
 28. Find the Index of the First Occurrence in a String e我自己做的 beat100% 双指针 
 
 
+****第10天打卡***
+232. Implement Queue using Stacks	e 看答案做的 需要两个stack。其实就是通过两个stack的后进先出，最后一合并就是先进先出。
+225. Implement Stack using Queues	e 看答案的 用两个队列来组成stack 顺序都是先进先出 但是第二个队列是为了备份第一个队列的元素
+20. Valid Parentheses	e 栈的经典方法 beat100% 注意空栈的判断
+1047. Remove All Adjacent Duplicates In String	e 我自己做的 跟代码随想录写的一样，就是beat只有7%
+
