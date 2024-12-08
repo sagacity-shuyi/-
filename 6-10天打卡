@@ -10,3 +10,20 @@ leetcode 349. Intersection of Two Arrays e. 两个都用unordered set beat 40%; 
 15. 3Sum m 固定一端 双指针问题 找一个三个数的对子，看答案解决的，注意去重复
 383 e 用26字母的int数组来做，beat100%，也算是哈希算法
 18. 4Sum  m 和三指针类似 注意剪枝 还有统一break返回result 
+
+
+
+****第8天打卡*****
+344. Reverse String e,一次成功 beat100% 我自己做的 双指针。
+541. Reverse String II e我自己做的 用了一个辅助函数
+最后一题 卡码网 我就不做了，那个网站外网登陆有点麻烦
+
+
+****第9天打卡***
+151. Reverse Words in a String ""m 我自己做出来了 beat9% 我用的substr方法 但是substr对于长度长的字符串运行效率低。答案是用了三步，第一步去除多余的空格（快慢指针），第二步逆转整个字符串，第三步针对每一个单词，reverse。两遍reverse即为正。下次自己试试
+，下次自己再做"
+卡码网：55.右旋转字符串 
+ 跳过
+28. Find the Index of the First Occurrence in a String e我自己做的 beat100% 双指针 
+
+
