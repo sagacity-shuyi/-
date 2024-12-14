@@ -1,4 +1,12 @@
 ******第11天*****
 150. Evaluate Reverse Polish Notation	m. stack 我做对的 beat24%
 239. Sliding Window Maximum	h 看答案做的 需要自己创建一个myqueue 是一个单调递减序列。
-347. Top K Frequent Elements	m 这个priorityqueue 其实就是大顶堆 小顶堆。这个关于它的创建其实我看答案看的不是很明白。后面需要复习
+347. Top K Frequent Elements	m 这个priorityqueue 其实就是大顶堆 小顶堆。这个关于它的创建其实我看答案看的不是很明白。后面需要复习。
+
+
+****第13天*****
+144. Binary Tree Preorder Traversal	e 二叉树的前序遍历 （递归） 栈（迭代）
+145. Binary Tree Postorder Traversal	e 二叉树的后序遍历 （递归） 栈（我自己做的写错了，也不知道为什么错了，看答案是明白的是上面的方法reverse一下）
+94. Binary Tree Inorder Traversal	"e 二叉树的中序遍历 （递归）  栈（我自己做的写错了，也不知道为什么错了，看答案是明白的）
+       以上三种方法的统一迭代的方法我就先不学习了。"
+102. Binary Tree Level Order Traversal	层序遍历 看答案 明白 queque：递归没太看懂
